@@ -2,6 +2,9 @@
 
 A new Flutter project.
 
+
+An early stage project where you can see login screen, text and password fields, sign in button.
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
